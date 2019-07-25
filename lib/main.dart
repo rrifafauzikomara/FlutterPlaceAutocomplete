@@ -7,7 +7,7 @@ import 'package:geolocator/geolocator.dart';
 
 void main() => runApp(MyApp());
 
-const kGoogleApiKey = "AIzaSyC3XARb11SdKlXZiJmaIzI6M2kIWHdWdro";
+const kGoogleApiKey = "YOUR_API_KEY";
 
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
